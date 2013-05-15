@@ -8,10 +8,10 @@ require 'date'
 
 # ------------------DEFINE VALUES----------------- #
 
-ck = 'IQKbtAYlXLripLGPWd0HUA'
-cs = 'GgDYlkSvaPxGxC4X8liwpUoqKwwr3lCADbz8A7ADU'
-at = '1430072682-z3UFhzbooflvlw5ICsjtm7eJQIXWFUDlIPcHyZK'
-ats = 'Zi2J9zAmVPuidk1B07PbS3r2AiCUJ0qh9ZYHNeaago4'
+ck = ''
+cs = ''
+at = ''
+ats = ''
 
 # -------------AUTH TWITTER------------- #
 
